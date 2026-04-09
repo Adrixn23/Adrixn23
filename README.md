@@ -11,8 +11,7 @@ Backend Developer de **República Dominicana** enfocado en el ecosistema **.NET*
 * **Principios:** SOLID, DRY, KISS, Repository Pattern
 * ### 📊 Lenguajes más usados
 
-![Mis lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Hxdess&layout=compact&theme=dracula&hide_border=true&langs_count=6)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 
 ### 🛠️ GitHub Stats
