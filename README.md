@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🚀 Hey, I'm Adrian (Hxdes) | Backend Developer
 
-<!--
-**Adrixn23/Adrixn23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer de **República Dominicana** 🇩🇴 enfocado en el ecosistema **.NET**. No solo escribo código; construyo estructuras con un **porqué** y un **para qué**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Stack
+* **Lenguaje:** C# (.NET 8+)
+* **DB:** SQL Server (Diseño Relacional & Optimización)
+* **Arquitectura:** Clean Architecture & N-Layer (Arquitectura en Capas)
+* **Principios:** SOLID, DRY, Repository Pattern
+### 🛠️ GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adrixn23&theme=tokyonight-duo&card_width=700&card_height=190)](https://git.io/streak-stats)
+
+### 🏗️ Mi Enfoque
+* **Abstracción sobre Complejidad:** Creo en separar la lógica de negocio de los detalles técnicos.
+* **Services como Guardianes:** Validación y reglas de negocio siempre en la capa de servicios.
+* **Código con Intención:** Priorizo la **alta sostenibilidad**  y el orden sobre las soluciones rápidas.
+
+---
+
+### 📫 Contacto
+* **📍 Ubicación:** San Pedro de Macorís, RD.
+* **🌱 Meta actual:** Dominar patrones de diseño y eficiencia en acceso a datos.
+
+> "Enfocado más en la importancia que en la relevancia."
