@@ -10,16 +10,16 @@ Backend Developer de **República Dominicana** enfocado en el ecosistema **.NET*
 * **Arquitectura:** Clean Architecture & N-Layer (Arquitectura en Capas)
 * **Principios:** SOLID, DRY, KISS, Repository Pattern
   
-### 🛠️ Stack Tecnológico
+### Stack Tecnológico
 
-### 🛠️ My Stack
+### My Stack
 [![My Skills](https://skillicons.dev/icons?i=cs,discord,css,html,visualstudio&theme=dark)](https://skillicons.dev)
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🛠️ GitHub Stats
+### GitHub Stats
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adrixn23&theme=tokyonight-duo&card_width=700&card_height=190)](https://git.io/streak-stats)
 
 ###  Mi Enfoque
