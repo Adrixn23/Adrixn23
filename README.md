@@ -19,7 +19,7 @@ Backend Developer de **República Dominicana** enfocado en el ecosistema **.NET*
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🛠️ GitHub Stats
-                            [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adrixn23&theme=tokyonight-duo&card_width=700&card_height=190)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adrixn23&theme=tokyonight-duo&card_width=700&card_height=190)](https://git.io/streak-stats)
 
 ###  Mi Enfoque
 * **Abstracción sobre Complejidad:** Creo en separar la lógica de negocio de los detalles técnicos.
