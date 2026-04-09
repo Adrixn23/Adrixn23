@@ -1,6 +1,6 @@
-# 🚀 Hey, I'm Adrian (Hxdes) | Backend Developer
+# Hey, I'm Adrian Brito | Backend Developer
 
-Backend Developer de **República Dominicana** 🇩🇴 enfocado en el ecosistema **.NET**. No solo escribo código; construyo estructuras con un **porqué** y un **para qué**.
+Backend Developer de **República Dominicana** enfocado en el ecosistema **.NET**. No solo escribo código; construyo estructuras que tengan sostenibilidad a lo largo del tiempo. 
 
 ---
 
@@ -12,15 +12,15 @@ Backend Developer de **República Dominicana** 🇩🇴 enfocado en el ecosistem
 ### 🛠️ GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adrixn23&theme=tokyonight-duo&card_width=700&card_height=190)](https://git.io/streak-stats)
 
-### 🏗️ Mi Enfoque
+###  Mi Enfoque
 * **Abstracción sobre Complejidad:** Creo en separar la lógica de negocio de los detalles técnicos.
 * **Services como Guardianes:** Validación y reglas de negocio siempre en la capa de servicios.
 * **Código con Intención:** Priorizo la **alta sostenibilidad**  y el orden sobre las soluciones rápidas.
 
 ---
 
-### 📫 Contacto
-* **📍 Ubicación:** San Pedro de Macorís, RD.
-* **🌱 Meta actual:** Dominar patrones de diseño y eficiencia en acceso a datos.
-
+###  Contacto
+* ** Ubicación:** San Pedro de Macorís, RD.
+* **Meta actual:** Dominar patrones de diseño y eficiencia en acceso a datos.
+* **www.linkedin.com/in/adrian-francisco-brito-nelkitts-ab2ab6317
 > "Enfocado más en la importancia que en la relevancia."
