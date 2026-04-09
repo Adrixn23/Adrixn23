@@ -31,7 +31,7 @@ Backend Developer de **República Dominicana** enfocado en el ecosistema **.NET*
 * **Abstracción sobre Complejidad:** Creo en separar la lógica de negocio de los detalles técnicos.
 * **Services como Guardianes:** Validación y reglas de negocio siempre en la capa de servicios.
 * **Código con Intención:** Priorizo la **alta sostenibilidad**  y el orden sobre las soluciones rápidas.
-
+![Olas Azules](https://capsule-render.vercel.app/api?type=waving&color=0078d4&height=80&section=footer&text=%20)
 ---
 
 ###  Contacto
