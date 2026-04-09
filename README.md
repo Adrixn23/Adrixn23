@@ -9,6 +9,11 @@ Backend Developer de **República Dominicana** enfocado en el ecosistema **.NET*
 * **DB:** SQL Server (Diseño Relacional & Optimización)
 * **Arquitectura:** Clean Architecture & N-Layer (Arquitectura en Capas)
 * **Principios:** SOLID, DRY, KISS, Repository Pattern
+* ### 📊 Lenguajes más usados
+
+![Mis lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=dracula&hide_border=true&langs_count=6)
+
+
 ### 🛠️ GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adrixn23&theme=tokyonight-duo&card_width=700&card_height=190)](https://git.io/streak-stats)
 
