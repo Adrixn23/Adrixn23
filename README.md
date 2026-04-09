@@ -1,3 +1,5 @@
+
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=0078D4&width=600&lines=Adrian+Brito;Backend+Developer;Skills+in+.NET+and+C%23)
 
 
