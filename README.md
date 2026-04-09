@@ -27,6 +27,7 @@ Backend Developer de **República Dominicana** enfocado en el ecosistema **.NET*
 ### GitHub Stats
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adrixn23&theme=tokyonight-duo&card_width=700&card_height=190)](https://git.io/streak-stats)
 
+
 ###  Mi Enfoque
 * **Abstracción sobre Complejidad:** Creo en separar la lógica de negocio de los detalles técnicos.
 * **Services como Guardianes:** Validación y reglas de negocio siempre en la capa de servicios.
