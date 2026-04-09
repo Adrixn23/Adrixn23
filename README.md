@@ -13,7 +13,7 @@ Backend Developer de **República Dominicana** enfocado en el ecosistema **.NET*
 ### 🛠️ Stack Tecnológico
 
 ### 🛠️ My Stack
-[![Mis Skills](https://skillicons.dev/icons?i=cs,dotnet,sqlserver,visualstudio,git,&theme=dark)](https://skillicons.dev)
+[![Mis Skills](https://skillicons.dev/icons?i=cs,dotnet,sqlserver,visualstudio,git&theme=dark)](https://skillicons.dev)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
