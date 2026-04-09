@@ -29,7 +29,7 @@ Backend Developer de **República Dominicana** enfocado en el ecosistema **.NET*
 ---
 
 ###  Contacto
-* ** Ubicación:** San Pedro de Macorís, RD.
+* **Ubicación:** San Pedro de Macorís, RD.
 * **Meta actual:** Dominar patrones de diseño y eficiencia en acceso a datos.
 * **www.linkedin.com/in/adrian-francisco-brito-nelkitts-ab2ab6317**
 > "Enfocado más en la importancia que en la relevancia."
