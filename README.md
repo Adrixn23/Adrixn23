@@ -12,7 +12,7 @@ Backend Developer de **República Dominicana** enfocado en el ecosistema **.NET*
 ### 🛠️ My Stack
 * **Lenguaje:** C# (.NET 8+)
 * **DB:** SQL Server (Diseño Relacional & Optimización)
-* **Arquitectura:** Clean Architecture & N-Layer (Arquitectura en Capas)
+* **Arquitectura:** Clean/Onion Architecture & N-Layer (Arquitectura en Capas)
 * **Principios:** SOLID, DRY, KISS, Repository Pattern
   
 ### Stack Tecnológico
